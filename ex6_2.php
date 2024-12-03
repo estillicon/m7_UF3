@@ -39,7 +39,7 @@
     <input name="telefon" type="text" placeholder="Introdueix el telèfon" /><br><br>
 
     <label for="tipus">Tipus d'usuari:</label>
-    <input name="tipus" type="text" placeholder="admin, profesor o estudiant" required /><br><br>
+    <input name="tipus" type="text" placeholder="admin, professor o estudiant" required /><br><br>
 
     <input type="submit" value="Registrar">
 </form>
